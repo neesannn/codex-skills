@@ -1,0 +1,4 @@
+interface:
+  display_name: "River DOM Carbon Literature"
+  short_description: "Search and summarize river DOM and carbon-cycle papers"
+  default_prompt: "检索高质量期刊中关于河流 DOM、DOC、碳通量或 EEM-PARAFAC 的论文，并按主题、方法和结论总结。"
